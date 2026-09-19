@@ -1,1 +1,1 @@
-# QSite_Challenge
+# QSite Hackathon - XANADU PennyLane Challenge
